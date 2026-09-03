@@ -31,7 +31,7 @@ Atualmente, estou buscando aprimorar meus conhecimentos, desenvolver novos proje
 </div>
 
 ## Projeto em Destaque 
-* **[LATinSP - Mapa Interativo da Culinária Latina em São Paulo](https://github.com/LuRSousa/LATinSP)**
+**[LATinSP - Mapa Interativo da Culinária Latina em São Paulo](https://github.com/LuRSousa/LATinSP)**
   
 Projeto desenvolvido como Trabalho de Conclusão de Curso do Ensino Médio Técnico em Informática para Internet na ETEC Parque Belém.
 
