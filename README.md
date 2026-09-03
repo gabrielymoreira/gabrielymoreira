@@ -1,6 +1,6 @@
 # Gabriely Moreira
 
-**´Desenvolvedora Fullstack em Formação´""
+**`Desenvolvedora Fullstack em Formação`""
 
 Olá! Eu sou a Gabriely 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP e formada no Ensino Médio Técnico em Informática para Internet pela Etec.
