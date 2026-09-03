@@ -17,7 +17,7 @@ Atualmente, estou buscando aprimorar meus conhecimentos, desenvolver novos proje
 
 **Ferramentas:**
 <div>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vs-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
