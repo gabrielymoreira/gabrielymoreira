@@ -32,6 +32,6 @@ Atualmente, estou buscando aprimorar meus conhecimentos, desenvolver novos proje
 
 ## Projeto em Destaque 
 * **[LATinSP - Mapa Interativo da Culinária Latina em São Paulo](https://github.com/LuRSousa/LATinSP)**
-* Projeto desenvolvido como Trabalho de Conclusão de Curso do Ensino Médio Técnico em Informática para Internet na ETEC Parque Belém.
-* O LATinSP é uma plataforma web voltada à valorização e divulgação da culinária latina em São Paulo, reunindo informações e referências de locais, restaurantes e iniciativas relacionadas à gastronomia latino-americana.
-* Atuei principalmente na concepção visual e UI/UX, contribuindo para a organização das informações e para uma experiência de navegação mais intuitiva e acessível.
+Projeto desenvolvido como Trabalho de Conclusão de Curso do Ensino Médio Técnico em Informática para Internet na ETEC Parque Belém.
+O LATinSP é uma plataforma web voltada à valorização e divulgação da culinária latina em São Paulo, reunindo informações e referências de locais, restaurantes e iniciativas relacionadas à gastronomia latino-americana.
+Atuei principalmente na concepção visual e UI/UX, contribuindo para a organização das informações e para uma experiência de navegação mais intuitiva e acessível.
