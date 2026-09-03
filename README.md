@@ -22,46 +22,16 @@ Atualmente, estou buscando aprimorar meus conhecimentos, desenvolver novos proje
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### Atualmente estudando:
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Oracle Database" 
-    title="Oracle Database"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
+**Atualmente estudando:**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</div>
 
 ## Projeto em Destaque 
 * **[LATinSP - Mapa Interativo da Culinária Latina em São Paulo](https://github.com/LuRSousa/LATinSP)**
 * Projeto desenvolvido como Trabalho de Conclusão de Curso do Ensino Médio Técnico em Informática para Internet na ETEC Parque Belém.
 * O LATinSP é uma plataforma web voltada à valorização e divulgação da culinária latina em São Paulo, reunindo informações e referências de locais, restaurantes e iniciativas relacionadas à gastronomia latino-americana.
 * Atuei principalmente na concepção visual e UI/UX, contribuindo para a organização das informações e para uma experiência de navegação mais intuitiva e acessível.
-
