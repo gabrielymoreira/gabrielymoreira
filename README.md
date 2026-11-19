@@ -30,7 +30,7 @@ Atualmente, estou buscando aprimorar meus conhecimentos, desenvolver novos proje
   <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
 
-## Projeto em Destaque 
+## Projetos em Destaque 
 **[LATinSP - Mapa Interativo da Culinária Latina em São Paulo](https://github.com/LuRSousa/LATinSP)**
   
 Projeto desenvolvido em equipe como Trabalho de Conclusão de Curso do Ensino Médio Técnico em Informática para Internet na ETEC Parque Belém.
