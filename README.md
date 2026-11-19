@@ -39,18 +39,22 @@ O LATinSP é uma plataforma web voltada à valorização e divulgação da culin
 
 Atuei principalmente na concepção visual e UI/UX, contribuindo para a organização das informações e para uma experiência de navegação mais intuitiva e acessível.
 
-**Pokédex - Aplicação Web**
+---
 
-Projeto desenvolvido durante minha formação em Análise e Desenvolvimento de Sistemas na FIAP, com foco na criação de uma aplicação web inspirada no universo Pokémon.
+**[Pokédex - Aplicação Web](https://github.com/gabrielymoreira/pokedex)**
 
-A Pokédex permite explorar e consultar informações sobre diferentes Pokémon, utilizando recursos de desenvolvimento front-end para estruturar a interface e proporcionar uma experiência de navegação intuitiva.
+Projeto desenvolvido durante minha formação em Análise e Desenvolvimento de Sistemas na FIAP.
 
-O projeto foi uma oportunidade de praticar conceitos de desenvolvimento web, lógica de programação e organização de interfaces.
+A Pokédex é uma aplicação web inspirada no universo Pokémon, desenvolvida para permitir a exploração e consulta de informações sobre diferentes Pokémon, por meio de uma interface intuitiva e organizada.
 
-**Cultiva - Plataforma de Agricultura Sustentável**
+O projeto proporcionou a aplicação prática de conceitos de desenvolvimento web, lógica de programação e construção de interfaces.
+
+---
+
+**[Cultiva - Plataforma de Agricultura Sustentável](https://github.com/Inova-Tech-FIAP/cultiva)**
 
 Projeto acadêmico desenvolvido em equipe durante o curso de Análise e Desenvolvimento de Sistemas na FIAP.
 
-O Cultiva é uma plataforma web voltada ao incentivo da agricultura sustentável, oferecendo recursos e informações para apoiar o planejamento e a gestão do cultivo, com foco no uso consciente dos recursos naturais.
+O Cultiva é uma plataforma web voltada ao incentivo da agricultura sustentável, oferecendo recursos e informações para auxiliar no planejamento e na gestão do cultivo, com foco no uso consciente dos recursos naturais.
 
-O projeto envolve o desenvolvimento de soluções tecnológicas para o contexto agrícola, integrando conceitos de desenvolvimento web, experiência do usuário e sustentabilidade.
+O projeto busca integrar tecnologia e sustentabilidade por meio de soluções digitais voltadas ao contexto agrícola.
