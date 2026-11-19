@@ -57,4 +57,4 @@ Projeto acadêmico desenvolvido em equipe durante o curso de Análise e Desenvol
 
 O Cultiva é uma plataforma web voltada ao incentivo da agricultura sustentável, oferecendo recursos e informações para auxiliar no planejamento e na gestão do cultivo, com foco no uso consciente dos recursos naturais.
 
-O projeto busca integrar tecnologia e sustentabilidade por meio de soluções digitais voltadas ao contexto agrícola.
+Fui responsável por todas as etapas do projeto, incluindo a concepção da solução, organização das funcionalidades, desenvolvimento da interface e implementação, integrando tecnologia e sustentabilidade em uma solução digital.
