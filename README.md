@@ -43,7 +43,7 @@ Atuei principalmente na concepção visual e UI/UX, contribuindo para a organiza
 
 **[Pokédex - Aplicação Web](https://github.com/gabrielymoreira/pokedex)**
 
-Projeto desenvolvido durante minha formação em Análise e Desenvolvimento de Sistemas na FIAP.
+Projeto desenvolvido durante minha formação técnica em Informática para Internet na Etec Parque Belém.
 
 A Pokédex é uma aplicação web inspirada no universo Pokémon, desenvolvida para permitir a exploração e consulta de informações sobre diferentes Pokémon, por meio de uma interface intuitiva e organizada.
 
